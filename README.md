@@ -24,8 +24,8 @@ Run custom commands like `todo`, `timer`, `focus`, and `log` inside a slick shel
 1. Clone the repo:
 
 ```bash
-   git clone https://github.com/yourusername/terminalos.git
-   cd terminalos
+   git clone https://github.com/xyloblonk/terminalos-v2.git
+   cd terminalos-v2
 ```
 
 2. Install dependencies:
