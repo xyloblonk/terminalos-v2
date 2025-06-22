@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+  color: #0f0;
+  font-family: monospace;
+  padding: 20px;
+}
+
+#terminal {
+  white-space: pre-wrap;
+  height: 90vh;
+  overflow-y: auto;
+}
+
+#command {
+  border: none;
+  background: transparent;
+  color: #0f0;
+  font-family: monospace;
+  font-size: 1rem;
+  outline: none;
+  width: 100%;
+}
